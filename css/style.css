@@ -1,0 +1,40 @@
+body{
+    background-color: rgba(58, 72, 216, 0.416);
+}
+.carousel-item{
+    height: 500px;
+    width: 300;
+    
+}
+.c-img{
+    height: 100%;
+    object-fit: cover;
+    filter: darks(10)
+}
+.carousel-caption{
+    color: rgb(139, 138, 196);
+}
+
+.navbar-brand{
+    color: rgb(247, 246, 246);
+    font-size: 1rem;
+    font-weight: 300px;
+    cursor: pointer;
+    text-decoration: none;
+}
+.nav-link{
+    color: rgb(247, 246, 246);
+    font-size: 1rem;
+    font-weight: 300px;
+    cursor: pointer;
+    text-decoration: none;
+}
+.nav-link:hover {
+    color: rgb(30, 30, 238);
+    background-color: rgb(255, 255, 255);
+}
+
+table{
+    color:rgb(3, 3, 3);
+}
+
